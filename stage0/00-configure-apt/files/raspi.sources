@@ -1,5 +1,5 @@
 Types: deb
-URIs: http://archive.raspberrypi.com/debian/
+URIs: https://mirrors.tuna.tsinghua.edu.cn/raspberrypi/
 Suites: RELEASE
 Components: main
 Signed-By: /usr/share/keyrings/raspberrypi-archive-keyring.pgp
